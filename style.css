@@ -75,7 +75,7 @@ body{
 #img1-3-draggable{
     position: absolute;
     left: 859px;
-    top: 450px;
+    top: 250px;
     
 }
 #img2-1-draggable{
@@ -98,7 +98,7 @@ body{
 }
 #img3-1-draggable{
     position: absolute;
-    left: 660px;
+    left: 860px;
     top: 300px;
    
 }
@@ -110,7 +110,7 @@ body{
 }
 #img3-3-draggable{
     position: absolute;
-    left: 660px;
+    left: 760px;
     top: 100px;
     
 }
