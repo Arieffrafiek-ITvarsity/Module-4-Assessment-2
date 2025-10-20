@@ -12,13 +12,6 @@ body{
     top: 0px
 }
 
-#img1-1-draggable{
-    position: absolute;
-    left: 750px;
-    bottom: 750;
-    transform: scale(0.3);
-}
-
 #grid1-2{
     position: absolute;
     left: 200px;
@@ -65,4 +58,59 @@ body{
     position: absolute;
     left: 400px;
     top: 400px
+}
+
+#img1-1-draggable{
+    position: absolute;
+    left: 750px;
+    bottom: 750;
+    transform: scale(0.9);
+}
+#img1-2-draggable{
+    position: absolute;
+    left: 700px;
+    bottom: 500;
+    transform: scale(0.9);
+}
+#img1-3-draggable{
+    position: absolute;
+    left: 859px;
+    bottom: 450;
+    transform: scale(0.9);
+}
+#img2-1-draggable{
+    position: absolute;
+    left: 800px;
+    bottom: 300;
+    transform: scale(0.9);
+}
+#img2-2-draggable{
+    position: absolute;
+    left: 500px;
+    bottom: 440;
+    transform: scale(0.9);
+}
+#img2-3-draggable{
+    position: absolute;
+    left: 700px;
+    bottom: 600;
+    transform: scale(0.9);
+}
+#img3-1-draggable{
+    position: absolute;
+    left: 800px;
+    bottom: 800;
+    transform: scale(0.9);
+}
+#img3-2-draggable{
+    position: absolute;
+    left: 500px;
+    bottom: 450;
+    transform: scale(0.9);
+}
+#img3-3-draggable{
+    position: absolute;
+    left: 660px;
+    bottom: 760;
+    transform: scale(0.9);
 }
