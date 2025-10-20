@@ -63,13 +63,13 @@ body{
 #img1-1-draggable{
     position: absolute;
     right: 750px;
-    bottom: 750px;
+    bottom: 200px;
     transform: scale(0.5);
 }
 #img1-2-draggable{
     position: absolute;
     right: 700px;
-    bottom: 500px;
+    bottom: 400px;
     transform: scale(0.5);
 }
 #img1-3-draggable{
@@ -93,13 +93,13 @@ body{
 #img2-3-draggable{
     position: absolute;
     right: 700px;
-    bottom: 600px;
+    bottom: 450px;
     transform: scale(0.5);
 }
 #img3-1-draggable{
     position: absolute;
     right: 700px;
-    bottom: 850px;
+    bottom: 300px;
     transform: scale(0.5);
 }
 #img3-2-draggable{
@@ -111,6 +111,6 @@ body{
 #img3-3-draggable{
     position: absolute;
     right: 660px;
-    bottom: 760px;
+    bottom: 260px;
     transform: scale(0.5);
 }
