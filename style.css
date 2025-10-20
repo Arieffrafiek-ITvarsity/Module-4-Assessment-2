@@ -64,53 +64,53 @@ body{
     position: absolute;
     right: 750px;
     bottom: 200px;
-    transform: scale(0.5);
+    
 }
 #img1-2-draggable{
     position: absolute;
     right: 710px;
     bottom: 400px;
-    transform: scale(0.5);
+    
 }
 #img1-3-draggable{
     position: absolute;
     right: 859px;
     bottom: 450px;
-    transform: scale(0.5);
+    
 }
 #img2-1-draggable{
     position: absolute;
     right: 800px;
-    bottom: 470px;
-    transform: scale(0.5);
+    bottom: 570px;
+    
 }
 #img2-2-draggable{
     position: absolute;
-    right: 500px;
-    bottom: 540px;
-    transform: scale(0.5);
+    right: 780px;
+    bottom: 340px;
+    
 }
 #img2-3-draggable{
     position: absolute;
     right: 770px;
     bottom: 450px;
-    transform: scale(0.5);
+    
 }
 #img3-1-draggable{
     position: absolute;
-    right: 600px;
+    right: 660px;
     bottom: 300px;
-    transform: scale(0.5);
+   
 }
 #img3-2-draggable{
     position: absolute;
-    right: 500px;
+    right: 740px;
     bottom: 250px;
-    transform: scale(0.5);
+    
 }
 #img3-3-draggable{
     position: absolute;
     right: 660px;
     bottom: 260px;
-    transform: scale(0.5);
+    
 }
