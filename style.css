@@ -12,6 +12,13 @@ body{
     top: 0px
 }
 
+#img1-1-draggable{
+    position: absolute;
+    left: 750px;
+    bottom: 750;
+    transform: scale(0.3);
+}
+
 #grid1-2{
     position: absolute;
     left: 200px;
